@@ -13,7 +13,7 @@ import { IoIosArrowDown } from "react-icons/io";
 
 const GenerateSection = () => {
   return (
-    <div className="mt-3">
+    <div className="my-5">
       <div className="flex flex-row my-2 justify-between items-center">
         <h1 className="text-foreground font-semibold">Generate</h1>
         <div className="flex flex-row gap-1 items-center">
